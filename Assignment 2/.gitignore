@@ -1,0 +1,48 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+SETUP.md
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Restricted historical datasets
+data/
+tankerkoenig-data/
+tankerkoenig-data.zip
+
+# Restricted forecast files
+*.7z
+*.sec
+.pdf
+
+# Generated outputs
+outputs/
+
+# Course materials
+IPDA class 030-043.pdf
+
+# Local IDE settings
+.vscode/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+
+# extras: 
+
+IPDA_Assi2_v2.ipynb
+# IPDA_Assignment2.ipynb
+IPDA_Petrol_Assignment_Final.ipynb
