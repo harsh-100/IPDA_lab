@@ -68,7 +68,7 @@ Historical period: **May 1 – September 30, 2026**.
 Extract the university-provided `Petrol forecasts csv.7z` into:
 
 ```text
-data/forecasts/extracted/
+data/forecasts/Petrolforecastscsv/
 ```
 
 **6. Run notebook**
